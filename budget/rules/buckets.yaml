@@ -1,0 +1,23 @@
+# Savings buckets, in whole dollars. Edited from the Savings page in the app.
+# savings_pool: total cash in the bank, to check every dollar is assigned.
+# Each bucket is named by the spend category that draws it down:
+# contribution (per month loaded), adjustment (manual offset to the
+# balance, may be negative), goal (target balance, 0 for none).
+savings_pool: 98610.52
+buckets:
+  Car Payment:
+    contribution: 350
+    adjustment: 15000
+    goal: 30000
+  House Maintenance/Projects:
+    contribution: 75
+    adjustment: 2000
+    goal: 5000
+  Mortgage:
+    contribution: 1150
+    adjustment: 80000
+    goal: 120000
+  Vacation:
+    contribution: 60
+    adjustment: 1500
+    goal: 5000

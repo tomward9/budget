@@ -1,0 +1,25 @@
+# Monthly budget targets in whole dollars, keyed by dashboard category label.
+# Edited from the Budgets page in the app; edit by hand if preferred.
+# 0 or absent means no target is set for that category.
+budgets:
+  Auto: 50
+  Car Payment: 350
+  Clothing: 50
+  DTE: 120
+  Eating Out: 125
+  Electricity: 150
+  Entertainment: 40
+  Gasoline: 160
+  Gifts: 50
+  Groceries: 450
+  House Maintenance/Projects: 75
+  Insurance: 160
+  Internet: 65
+  Merch & Misc: 30
+  Mortgage: 1150
+  Personal Care: 30
+  Phone: 50
+  Tithing: 285
+  Trash: 25
+  Vacation: 60
+  Water: 35
